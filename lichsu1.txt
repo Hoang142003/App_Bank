@@ -1,0 +1,7 @@
+Vào lúc 2022-12-22T15:12:22.440 quý khách đã nạp 100 đồng.
+Vào lúc 2022-12-22T15:12:39.324 quý khách đã rút 15 đồng
+Vào lúc 2022-12-22T15:12:48.243 quý khách đã chuyển 1000 đồng vào tài khoản 6.
+Vào lúc 2022-12-22T16:08:26.365 quý khách đã nạp 10 đồng.
+Vào lúc 2022-12-22T16:21:27.548 quý khách đã được chuyển 1000 đồng vào tài khoản bởi tài khoản 6.
+Vào lúc 2022-12-22T16:24:32.943 quý khách đã chuyển 10000 đồng vào tài khoản 6.
+Vào lúc 2022-12-27T13:35:39.813 quý khách đã rút 10 đồng
